@@ -2,7 +2,7 @@
 
 A dark navy theme for T3 Code, based on an illustration of a poppy field under halftone clouds. It uses cream text, poppy-orange accents, and honey-gold highlights, with a faint dot texture in the chat and sidebar. The poppy field shows through at the bottom of the chat.
 
-![Twilight Poppies background](theme/twilight-poppies.png)
+![T3 Code with the Twilight Poppies theme](screenshot.png)
 
 It also includes a cream light variant.
 
